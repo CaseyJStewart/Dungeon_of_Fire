@@ -1,0 +1,1997 @@
+fileFormatVersion: 2
+guid: 149d84290430a16409dbda82b803a872
+timeCreated: 1471467681
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombiesheet_0
+    21300002: zombiesheet_1
+    21300004: zombiesheet_2
+    21300006: zombiesheet_3
+    21300008: zombiesheet_4
+    21300010: zombiesheet_5
+    21300012: zombiesheet_6
+    21300014: zombiesheet_7
+    21300016: zombiesheet_8
+    21300018: zombiesheet_9
+    21300020: zombiesheet_10
+    21300022: zombiesheet_11
+    21300024: zombiesheet_12
+    21300026: zombiesheet_13
+    21300028: zombiesheet_14
+    21300030: zombiesheet_15
+    21300032: zombiesheet_16
+    21300034: zombiesheet_17
+    21300036: zombiesheet_18
+    21300038: zombiesheet_19
+    21300040: zombiesheet_20
+    21300042: zombiesheet_21
+    21300044: zombiesheet_22
+    21300046: zombiesheet_23
+    21300048: zombiesheet_24
+    21300050: zombiesheet_25
+    21300052: zombiesheet_26
+    21300054: zombiesheet_27
+    21300056: zombiesheet_28
+    21300058: zombiesheet_29
+    21300060: zombiesheet_30
+    21300062: zombiesheet_31
+    21300064: zombiesheet_32
+    21300066: zombiesheet_33
+    21300068: zombiesheet_34
+    21300070: zombiesheet_35
+    21300072: zombiesheet_36
+    21300074: zombiesheet_37
+    21300076: zombiesheet_38
+    21300078: zombiesheet_39
+    21300080: zombiesheet_40
+    21300082: zombiesheet_41
+    21300084: zombiesheet_42
+    21300086: zombiesheet_43
+    21300088: zombiesheet_44
+    21300090: zombiesheet_45
+    21300092: zombiesheet_46
+    21300094: zombiesheet_47
+    21300096: zombiesheet_48
+    21300098: zombiesheet_49
+    21300100: zombiesheet_50
+    21300102: zombiesheet_51
+    21300104: zombiesheet_52
+    21300106: zombiesheet_53
+    21300108: zombiesheet_54
+    21300110: zombiesheet_55
+    21300112: zombiesheet_56
+    21300114: zombiesheet_57
+    21300116: zombiesheet_58
+    21300118: zombiesheet_59
+    21300120: zombiesheet_60
+    21300122: zombiesheet_61
+    21300124: zombiesheet_62
+    21300126: zombiesheet_63
+    21300128: zombiesheet_64
+    21300130: zombiesheet_65
+    21300132: zombiesheet_66
+    21300134: zombiesheet_67
+    21300136: zombiesheet_68
+    21300138: zombiesheet_69
+    21300140: zombiesheet_70
+    21300142: zombiesheet_71
+    21300144: zombiesheet_72
+    21300146: zombiesheet_73
+    21300148: zombiesheet_74
+    21300150: zombiesheet_75
+    21300152: zombiesheet_76
+    21300154: zombiesheet_77
+    21300156: zombiesheet_78
+    21300158: zombiesheet_79
+    21300160: zombiesheet_80
+    21300162: zombiesheet_81
+    21300164: zombiesheet_82
+    21300166: zombiesheet_83
+    21300168: zombiesheet_84
+    21300170: zombiesheet_85
+    21300172: zombiesheet_86
+    21300174: zombiesheet_87
+    21300176: zombiesheet_88
+    21300178: zombiesheet_89
+    21300180: zombiesheet_90
+    21300182: zombiesheet_91
+    21300184: zombiesheet_92
+    21300186: zombiesheet_93
+    21300188: zombiesheet_94
+    21300190: zombiesheet_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zombiesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: zombiesheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -8}
+        - {x: -8, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: 16}
+    - name: zombiesheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -12}
+        - {x: -5, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 15}
+        - {x: 13, y: 16}
+    - name: zombiesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 14}
+        - {x: 12, y: 11}
+        - {x: 9, y: 16}
+        - {x: -8, y: 16}
+        - {x: -11, y: 14}
+        - {x: -15, y: -1}
+        - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 15}
+        - {x: 13, y: 16}
+    - name: zombiesheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -15, y: 13}
+        - {x: -15, y: -13}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -13}
+        - {x: 15, y: 8}
+        - {x: 10, y: 16}
+      - - {x: -13, y: -14}
+        - {x: -13, y: -11}
+        - {x: -16, y: -10}
+        - {x: -16, y: -15}
+      - - {x: -16, y: 7}
+        - {x: -13, y: 8}
+        - {x: -13, y: 12}
+        - {x: -15, y: 14}
+        - {x: -16, y: 14}
+    - name: zombiesheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -6, y: 16}
+        - {x: -11, y: 14}
+        - {x: -14, y: 7}
+        - {x: -14, y: -15}
+        - {x: -11, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 2}
+        - {x: 13, y: 11}
+      - - {x: -13, y: -14}
+        - {x: -13, y: -11}
+        - {x: -16, y: -10}
+        - {x: -16, y: -15}
+    - name: zombiesheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 9}
+        - {x: -15, y: -8}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 14}
+        - {x: 14, y: 16}
+    - name: zombiesheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -12, y: 11}
+        - {x: -15, y: -2}
+        - {x: -15, y: -8}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 8}
+        - {x: 14, y: 16}
+    - name: zombiesheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -9, y: 16}
+        - {x: -15, y: 5}
+        - {x: -15, y: -12}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 7}
+        - {x: 14, y: 15}
+    - name: zombiesheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 6}
+        - {x: -15, y: -15}
+        - {x: -14, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 13}
+        - {x: 11, y: 16}
+    - name: zombiesheet_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -15, y: 5}
+        - {x: -15, y: -14}
+        - {x: -10, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      - - {x: -13, y: -14}
+        - {x: -13, y: -11}
+        - {x: -16, y: -10}
+        - {x: -16, y: -15}
+    - name: zombiesheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 4}
+        - {x: -15, y: -10}
+        - {x: -10, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 8}
+        - {x: 14, y: 15}
+        - {x: 12, y: 16}
+        - {x: -6, y: 16}
+        - {x: -12, y: 14}
+      - - {x: -13, y: -14}
+        - {x: -13, y: -11}
+        - {x: -16, y: -10}
+        - {x: -16, y: -15}
+    - name: zombiesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -10}
+        - {x: -8, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 14}
+        - {x: 10, y: 16}
+    - name: zombiesheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -11}
+        - {x: -11, y: -16}
+        - {x: 7, y: -16}
+        - {x: 13, y: -3}
+        - {x: 13, y: 11}
+        - {x: 10, y: 16}
+    - name: zombiesheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -7}
+        - {x: -8, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: 1}
+        - {x: 13, y: 14}
+        - {x: 11, y: 16}
+    - name: zombiesheet_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 8}
+        - {x: -13, y: -10}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 16}
+    - name: zombiesheet_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -8}
+        - {x: -5, y: -16}
+        - {x: 10, y: -16}
+        - {x: 11, y: -12}
+        - {x: 11, y: 16}
+    - name: zombiesheet_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -13}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 11, y: -11}
+        - {x: 11, y: 16}
+    - name: zombiesheet_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 11}
+        - {x: -16, y: -6}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -4}
+        - {x: 16, y: 12}
+        - {x: 9, y: 16}
+    - name: zombiesheet_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 13}
+        - {x: 9, y: 16}
+    - name: zombiesheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 9}
+        - {x: -16, y: -10}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 8}
+        - {x: 11, y: 16}
+    - name: zombiesheet_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -9}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: zombiesheet_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -8}
+        - {x: -5, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -8}
+        - {x: 13, y: 16}
+    - name: zombiesheet_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -12}
+        - {x: -12, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 13}
+        - {x: 10, y: 16}
+    - name: zombiesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -11}
+        - {x: -9, y: -16}
+        - {x: 7, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 16}
+    - name: zombiesheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -13}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -9}
+        - {x: 13, y: 14}
+        - {x: 12, y: 16}
+    - name: zombiesheet_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: 1}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -15}
+        - {x: 13, y: 16}
+    - name: zombiesheet_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -9, y: 16}
+        - {x: -11, y: 15}
+        - {x: -11, y: -14}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -9}
+        - {x: 13, y: 10}
+    - name: zombiesheet_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -8}
+        - {x: -9, y: -16}
+        - {x: 5, y: -16}
+        - {x: 13, y: -8}
+        - {x: 13, y: 16}
+    - name: zombiesheet_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 16}
+    - name: zombiesheet_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -4}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 12}
+        - {x: 9, y: 16}
+    - name: zombiesheet_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -5}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 9}
+        - {x: 11, y: 16}
+    - name: zombiesheet_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -5}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 14, y: -9}
+        - {x: 16, y: -7}
+        - {x: 16, y: 16}
+    - name: zombiesheet_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 16}
+    - name: zombiesheet_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -12, y: 11}
+        - {x: -13, y: -7}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 13, y: -8}
+        - {x: 13, y: 12}
+        - {x: 11, y: 16}
+    - name: zombiesheet_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -11, y: 10}
+        - {x: -13, y: -8}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -10}
+        - {x: 13, y: 11}
+        - {x: 11, y: 16}
+    - name: zombiesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 16}
+        - {x: -12, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: -13}
+        - {x: -10, y: -16}
+        - {x: 6, y: -16}
+        - {x: 11, y: -15}
+        - {x: 14, y: -8}
+        - {x: 14, y: 13}
+    - name: zombiesheet_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 15}
+        - {x: -13, y: -8}
+        - {x: -7, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -10}
+        - {x: 14, y: 14}
+    - name: zombiesheet_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: -10}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 16}
+    - name: zombiesheet_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: -11}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -9}
+        - {x: 14, y: 9}
+        - {x: 10, y: 16}
+    - name: zombiesheet_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -7}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 12}
+        - {x: 13, y: 16}
+    - name: zombiesheet_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -14, y: 6}
+        - {x: -14, y: -13}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 4}
+        - {x: 11, y: 16}
+    - name: zombiesheet_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -14, y: 7}
+        - {x: -14, y: -12}
+        - {x: -11, y: -16}
+        - {x: 6, y: -16}
+        - {x: 13, y: -13}
+        - {x: 15, y: -7}
+        - {x: 15, y: 2}
+        - {x: 10, y: 16}
+    - name: zombiesheet_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -12, y: 15}
+        - {x: -13, y: 10}
+        - {x: -13, y: -10}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -9}
+        - {x: 14, y: 15}
+        - {x: 11, y: 16}
+    - name: zombiesheet_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 11}
+        - {x: -13, y: 1}
+        - {x: -13, y: -10}
+        - {x: -5, y: -16}
+        - {x: 9, y: -16}
+        - {x: 15, y: -7}
+        - {x: 15, y: 5}
+        - {x: 10, y: 16}
+    - name: zombiesheet_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 11}
+        - {x: -14, y: 5}
+        - {x: -14, y: -9}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -9}
+        - {x: 15, y: 6}
+        - {x: 10, y: 16}
+    - name: zombiesheet_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -16}
+        - {x: 8, y: -16}
+        - {x: 15, y: -6}
+        - {x: 15, y: 15}
+        - {x: 10, y: 16}
+    - name: zombiesheet_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 11}
+        - {x: -14, y: -11}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 15, y: -12}
+        - {x: 15, y: 7}
+        - {x: 14, y: 11}
+        - {x: 11, y: 16}
+        - {x: -9, y: 16}
+        - {x: -13, y: 15}
+    - name: zombiesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -15, y: 11}
+        - {x: -15, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: zombiesheet_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 10}
+        - {x: -15, y: -13}
+        - {x: -13, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 16}
+      - - {x: -16, y: 7}
+        - {x: -13, y: 8}
+        - {x: -13, y: 12}
+        - {x: -15, y: 14}
+        - {x: -16, y: 14}
+    - name: zombiesheet_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -14}
+        - {x: -14, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 12}
+        - {x: 9, y: 16}
+    - name: zombiesheet_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 9}
+        - {x: -14, y: -11}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 16}
+    - name: zombiesheet_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 3}
+        - {x: 15, y: 9}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -7}
+        - {x: -13, y: -12}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 14, y: -12}
+        - {x: 16, y: -9}
+    - name: zombiesheet_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 13}
+        - {x: -16, y: 6}
+        - {x: -16, y: -9}
+        - {x: -8, y: -16}
+        - {x: 12, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 10}
+        - {x: 8, y: 16}
+    - name: zombiesheet_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -13, y: 11}
+        - {x: -15, y: -1}
+        - {x: -15, y: -9}
+        - {x: -7, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+    - name: zombiesheet_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -15, y: 15}
+        - {x: -15, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -10}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+      - - {x: -13, y: -14}
+        - {x: -13, y: -11}
+        - {x: -16, y: -10}
+        - {x: -16, y: -15}
+      - - {x: -16, y: 7}
+        - {x: -15, y: 6}
+        - {x: -12, y: 7}
+        - {x: -12, y: 10}
+        - {x: -15, y: 11}
+        - {x: -16, y: 10}
+    - name: zombiesheet_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 6}
+        - {x: -14, y: -15}
+        - {x: -10, y: -16}
+        - {x: 13, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+      - - {x: -13, y: -14}
+        - {x: -13, y: -11}
+        - {x: -16, y: -10}
+        - {x: -16, y: -15}
+      - - {x: -13, y: 3}
+        - {x: -13, y: 6}
+        - {x: -16, y: 7}
+        - {x: -16, y: 2}
+    - name: zombiesheet_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -15, y: 6}
+        - {x: -15, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: zombiesheet_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -15, y: 13}
+        - {x: -15, y: -12}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+      - - {x: -13, y: -14}
+        - {x: -13, y: -11}
+        - {x: -16, y: -10}
+        - {x: -16, y: -15}
+      - - {x: -16, y: 7}
+        - {x: -15, y: 6}
+        - {x: -12, y: 7}
+        - {x: -12, y: 10}
+        - {x: -15, y: 11}
+        - {x: -16, y: 10}
+    - name: zombiesheet_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -15}
+        - {x: -11, y: -16}
+        - {x: 14, y: -16}
+        - {x: 16, y: -13}
+        - {x: 16, y: 16}
+        - {x: -14, y: 16}
+      - - {x: -13, y: -14}
+        - {x: -13, y: -11}
+        - {x: -16, y: -10}
+        - {x: -16, y: -15}
+      - - {x: -13, y: 3}
+        - {x: -13, y: 6}
+        - {x: -16, y: 7}
+        - {x: -16, y: 2}
+    - name: zombiesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -12, y: 13}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 13, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 7}
+        - {x: 14, y: 16}
+    - name: zombiesheet_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 8}
+        - {x: -13, y: -7}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 16}
+    - name: zombiesheet_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -10}
+        - {x: -12, y: -16}
+        - {x: 14, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: -10}
+        - {x: 12, y: 16}
+    - name: zombiesheet_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 16}
+        - {x: -11, y: 16}
+        - {x: -13, y: 15}
+        - {x: -13, y: -9}
+        - {x: -11, y: -13}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 2}
+        - {x: 14, y: 11}
+    - name: zombiesheet_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -15}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -15}
+        - {x: 14, y: 9}
+        - {x: 10, y: 16}
+    - name: zombiesheet_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -14}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -7}
+        - {x: 14, y: 14}
+        - {x: 11, y: 16}
+    - name: zombiesheet_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -9}
+        - {x: -6, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -10}
+        - {x: 16, y: 16}
+    - name: zombiesheet_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -10}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 16}
+    - name: zombiesheet_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -11}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+      - - {x: -16, y: 9}
+        - {x: -15, y: 8}
+        - {x: -12, y: 9}
+        - {x: -12, y: 12}
+        - {x: -15, y: 13}
+        - {x: -16, y: 12}
+    - name: zombiesheet_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -9}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -5}
+        - {x: 16, y: 10}
+        - {x: 14, y: 16}
+    - name: zombiesheet_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -10}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 9}
+        - {x: 15, y: 16}
+    - name: zombiesheet_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -6}
+        - {x: 16, y: 10}
+        - {x: 14, y: 16}
+    - name: zombiesheet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -13, y: 10}
+        - {x: -15, y: -10}
+        - {x: -15, y: -14}
+        - {x: -13, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+    - name: zombiesheet_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -16}
+        - {x: 6, y: -16}
+        - {x: 13, y: -8}
+        - {x: 13, y: 14}
+        - {x: 10, y: 16}
+    - name: zombiesheet_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 9}
+        - {x: -15, y: -16}
+        - {x: 13, y: -16}
+        - {x: 13, y: 16}
+    - name: zombiesheet_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -11, y: 13}
+        - {x: -16, y: -1}
+        - {x: -16, y: -10}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 13, y: -11}
+        - {x: 13, y: 16}
+    - name: zombiesheet_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 12}
+        - {x: -14, y: 7}
+        - {x: -14, y: -9}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 13, y: -9}
+        - {x: 13, y: 16}
+    - name: zombiesheet_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -4}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 13, y: -12}
+        - {x: 13, y: 16}
+    - name: zombiesheet_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -4}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 13, y: -13}
+        - {x: 13, y: 16}
+    - name: zombiesheet_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -5}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 13, y: -9}
+        - {x: 13, y: 13}
+        - {x: 9, y: 16}
+    - name: zombiesheet_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -15, y: 15}
+        - {x: -16, y: 3}
+        - {x: -16, y: -2}
+        - {x: -10, y: -15}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -10}
+        - {x: 13, y: 15}
+        - {x: 10, y: 16}
+    - name: zombiesheet_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -7}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 15}
+        - {x: 10, y: 16}
+    - name: zombiesheet_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -16, y: 6}
+        - {x: -16, y: -2}
+        - {x: -12, y: -8}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 13, y: -8}
+        - {x: 13, y: 16}
+    - name: zombiesheet_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -3}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 13, y: -10}
+        - {x: 13, y: 16}
+    - name: zombiesheet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -14, y: 11}
+        - {x: -14, y: -10}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -14}
+        - {x: 14, y: 11}
+        - {x: 13, y: 16}
+    - name: zombiesheet_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 16}
+    - name: zombiesheet_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -16}
+        - {x: 14, y: -16}
+        - {x: 14, y: 16}
+    - name: zombiesheet_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 16}
+        - {x: -14, y: -10}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 15, y: -15}
+        - {x: 15, y: 9}
+        - {x: 14, y: 14}
+        - {x: 11, y: 16}
+      - - {x: 12, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -11}
+        - {x: 11, y: -14}
+    - name: zombiesheet_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -14, y: 10}
+        - {x: -14, y: -11}
+        - {x: -11, y: -16}
+        - {x: 10, y: -16}
+        - {x: 15, y: -14}
+        - {x: 15, y: 10}
+        - {x: 11, y: 16}
+    - name: zombiesheet_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -15, y: -14}
+        - {x: -10, y: -16}
+        - {x: 15, y: -16}
+        - {x: 15, y: 16}
+    - name: zombiesheet_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -15, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -2}
+        - {x: -14, y: -8}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 13, y: -14}
+        - {x: 14, y: -10}
+        - {x: 14, y: 12}
+    - name: zombiesheet_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 16}
+        - {x: -16, y: 14}
+        - {x: -16, y: -4}
+        - {x: -9, y: -16}
+        - {x: 13, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 15}
+        - {x: 10, y: 16}
+    - name: zombiesheet_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -7}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: 15}
+        - {x: 12, y: 16}
+    - name: zombiesheet_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -13}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 14, y: -11}
+        - {x: 14, y: -4}
+        - {x: 12, y: 10}
+    - name: zombiesheet_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: -10, y: -16}
+        - {x: 12, y: -16}
+        - {x: 14, y: -12}
+        - {x: 14, y: 12}
+    - name: zombiesheet_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -14}
+        - {x: -10, y: -16}
+        - {x: 11, y: -16}
+        - {x: 14, y: -13}
+        - {x: 14, y: 4}
+        - {x: 11, y: 16}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
