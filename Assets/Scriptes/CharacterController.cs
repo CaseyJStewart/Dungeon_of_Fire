@@ -6,23 +6,29 @@ public class CharacterController : MonoBehaviour
     public static int health = 100;
     public int maxHealth = 100;
     public static int defence = 10;
+    public int Money = 0;
     public  int damage = 5;
     public static float crit = .10f;
     public BoxCollider2D[] triggerbox;
     public int level = 1;
-    private Animator anim;
+    [SerializeField]
+    private Animator anims;
     public float speed = 3f;
     Vector3 pos;
     int idleHolder = 0;
     public bool canWalk = true;
     bool isWalking;
     int currentXP;
-    int nextLevelUp;
+    public int attackSpeed = 1;
+    public float nextAttack = 0f;
+    int nextLevelUp = 20;
     public bool isDoneWalking = false;
+
+    
     void Start()
     {
         pos = transform.position;
-        anim = this.GetComponent<Animator>();
+        anims = this.GetComponent<Animator>();
         foreach(BoxCollider2D box in triggerbox)
         {
             box.enabled = false;
@@ -31,11 +37,17 @@ public class CharacterController : MonoBehaviour
 
     void levelUp()
     {
-        nextLevelUp += 100;
+        Debug.Log("LEVVVVELLLLL UPPPPP");
+        level++;
+        nextLevelUp += 20;
         maxHealth += 10;
     }
+    public void GainMoney(int amount)
+    {
+        Money += amount;
+    }
 
-    void GainExperience(int amount)
+    public void GainExperience(int amount)
     {
         currentXP += amount;
         if (currentXP >= nextLevelUp)
@@ -95,48 +107,52 @@ public class CharacterController : MonoBehaviour
         {
             int playerLayer = ~LayerMask.GetMask("Player");
             RaycastHit2D hit = Physics2D.BoxCast(transform.position, Vector2.one * 0.9f, 0f, move, 1.0f, playerLayer);
-            Debug.Log(transform.position);
+            //Debug.Log(transform.position);
             if (hit.collider == null)
             {
-                pos += move;
                 isWalking = true;
-                anim.SetBool("isWalking", isWalking);
-                anim.SetFloat("x", x);
-                anim.SetFloat("y", y);
+                pos += move;
+                anims.SetBool("isWalking", isWalking);
+                anims.SetFloat("x", x);
+                anims.SetFloat("y", y);
             }
             else
             {
-                Debug.Log(hit.collider + ":" + hit.collider.bounds);
+               // Debug.Log(hit.collider + ":" + hit.collider.bounds);
             }
         }
+       
 
         transform.position = Vector3.MoveTowards(transform.position, pos, Time.deltaTime * speed);    // Move there
         
         if (transform.position == pos)
+        {
             foreach (BoxCollider2D box in triggerbox)
             {
                 box.enabled = true;
             }
-        isWalking = false;
-        isDoneWalking = true;
-        anim.SetBool("isWalking", isWalking);
-        switch (idleHolder)
-        {
-            case 1:
-                anim.SetFloat("Direction", 1);
-                break;
-            case 2:
-                anim.SetFloat("Direction", 2);
-                break;
-            case 3:
-                anim.SetFloat("Direction", 3);
-                break;
-            case 4:
-                anim.SetFloat("Direction", 4);
-                break;
+            isWalking = false;
+            anims.SetBool("isWalking", isWalking);
+            isDoneWalking = true;
 
-            default:
-                break;
+            switch (idleHolder)
+            {
+                case 1:
+                    anims.SetFloat("Direction", 1);
+                    break;
+                case 2:
+                    anims.SetFloat("Direction", 2);
+                    break;
+                case 3:
+                    anims.SetFloat("Direction", 3);
+                    break;
+                case 4:
+                    anims.SetFloat("Direction", 4);
+                    break;
+
+                default:
+                    break;
+            }
         }
     }
 }

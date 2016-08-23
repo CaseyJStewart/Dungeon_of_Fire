@@ -33,7 +33,11 @@ public class EnemyController : MonoBehaviour
     [SerializeField]
     private int waitforseconds = 1;
     public bool canWalk = true;
+    public int attackSpeed = 2;
+    public int enemyDamage = 10;
     public bool isDoneWalking = false;
+    public int GivingExp;
+    public int GivingMoney;
     void Start()
     {
         pos = transform.position;
@@ -45,6 +49,8 @@ public class EnemyController : MonoBehaviour
     {
         health -= damage;
     }
+
+   
     void Update()
     {
         Break();
@@ -221,10 +227,6 @@ public class EnemyController : MonoBehaviour
                 enemyState = State.Idle;
             }
         }
-    }
-    void BrainFight()
-    {
-
     }
     void Brain()
     {
